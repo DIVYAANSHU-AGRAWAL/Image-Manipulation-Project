@@ -11,14 +11,14 @@
 - **Save Image:** Save your edited image directly to your computer.
 
 ### Project Snapshots
-#### Sample Image
-- ![Screenshot (74)](https://github.com/user-attachments/assets/ba630e26-0385-4391-aa3e-5bcaf7777567)
-#### Grayscale (Black and White Filter)
-- ![Screenshot (75)](https://github.com/user-attachments/assets/995b025d-321b-4d30-bbdf-b6e2501097fd)
-#### Increased Brightness
-- ![Screenshot (76)](https://github.com/user-attachments/assets/79f963fc-9aca-4069-9897-56c73b262f91)
-#### Emboss Filter
-- ![Screenshot (77)](https://github.com/user-attachments/assets/2f3f5842-9d4e-4bcd-a368-79e77bdd55da)
+- #### Sample Image
+![Screenshot (74)](https://github.com/user-attachments/assets/ba630e26-0385-4391-aa3e-5bcaf7777567)
+- #### Grayscale (Black and White Filter)
+![Screenshot (75)](https://github.com/user-attachments/assets/995b025d-321b-4d30-bbdf-b6e2501097fd)
+- #### Increased Brightness
+![Screenshot (76)](https://github.com/user-attachments/assets/79f963fc-9aca-4069-9897-56c73b262f91)
+- #### Emboss Filter
+![Screenshot (77)](https://github.com/user-attachments/assets/2f3f5842-9d4e-4bcd-a368-79e77bdd55da)
 
 
 ### Requirements
