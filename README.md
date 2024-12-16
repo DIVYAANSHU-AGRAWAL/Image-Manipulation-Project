@@ -1,7 +1,6 @@
 # Image-Manipulation-Software-Tkinter
- An Image Manipulation Software built using Tkinter and Pillow
 
-## **This is a beginner-friendly image editing application built using Python and the Tkinter library. The tool lets you load, edit, and save images with various features like drawing, applying filters, flipping, and rotating.**
+#### **This is a beginner-friendly image editing application built using Python and the Tkinter library. The tool lets you load, edit, and save images with various features like drawing, applying filters, flipping, and rotating.**
 
 ### Features
 **Add an Image:** Easily load an image from your computer.
@@ -16,8 +15,10 @@
 
 - Python 3.6+
 - Pillow Library (for image processing)
+- Tkinter Library
 ```
 pip install pillow
+pip install tkinter
 ```
 ### Features for Improvement
 - Add more Filters
