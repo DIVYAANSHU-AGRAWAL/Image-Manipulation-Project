@@ -1,4 +1,4 @@
-# Image-Manipulation-Software-Tkinter
+# PixCraft: Image-Manipulation-Software
 
 #### This is a beginner-friendly image editing application built using Python and the Tkinter library. The tool lets you load, edit, and save images with various features like drawing, applying filters, flipping, and rotating.
 
